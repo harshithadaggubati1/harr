@@ -1,4 +1,4 @@
-n=int(input("enter number:"))
+n=iinput("enter number:")
 c=0
 for i in range(1,n+1):
     if n%i==0:
